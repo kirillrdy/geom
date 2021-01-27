@@ -1,5 +1,7 @@
 module github.com/ctessum/geom
 
+replace github.com/ctessum/polyclip-go => github.com/kirillrdy/polyclip-go v0.0.0-20210127024951-1ae1d014ec4d
+
 require (
 	github.com/ctessum/polyclip-go v1.0.2-0.20200417141046-48e92ea36ddd
 	github.com/jonas-p/go-shp v0.1.2-0.20190401125246-9fd306ae10a6

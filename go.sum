@@ -21,6 +21,8 @@ github.com/jonas-p/go-shp v0.1.2-0.20190401125246-9fd306ae10a6 h1:h5O7ee4tlSPVjd
 github.com/jonas-p/go-shp v0.1.2-0.20190401125246-9fd306ae10a6/go.mod h1:MRIhyxDQ6VVp0oYeD7yPGr5RSTNScUFKCDsI5DR7PtI=
 github.com/jung-kurt/gofpdf v1.0.0 h1:EroSdlP9BOoL5ssLYf3uLJXhCQMMM2fFxCJDKA3RhnA=
 github.com/jung-kurt/gofpdf v1.0.0/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=
+github.com/kirillrdy/polyclip-go v0.0.0-20210127024951-1ae1d014ec4d h1:c3xWjmmsypvHShN9/g7IiTRTGtRhb8ODxxQNLkaO+Nk=
+github.com/kirillrdy/polyclip-go v0.0.0-20210127024951-1ae1d014ec4d/go.mod h1:e/Lh1JOGyynZwLr0M4tZGIyx07wXw9T+pu6hFut+kFQ=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/llgcode/draw2d v0.0.0-20180817132918-587a55234ca2 h1:3xDkT1Tbsw2yDtKWUrROAlr15+dzp76kwucDvAPPnQo=
